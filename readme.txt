@@ -6,10 +6,4 @@ Feature 2
 
 look a new feature season 2
 
-<<<<<<< Updated upstream
 lets another awesome feature 3
-=======
-lets another awesome feature 3
-
-and thats the final feature
->>>>>>> Stashed changes
